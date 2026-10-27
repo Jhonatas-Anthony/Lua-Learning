@@ -1,0 +1,16 @@
+
+-- STEP: MATH
+print(5 + 5)
+print(10 - 1)
+print(4 * 5)
+print(19 / 5)
+print(5 ^ 2)
+print(16 % 5)
+print(math.pi)
+print(math.min(10, 5, -1, 0, 1))
+print(math.max(10, 5, -1, 0, 1))
+print(math.ceil(20.1), math.ceil(19.9))
+print(math.floor(20.1), math.floor(19.9))
+print(math.random())
+math.randomseed(os.time())
+print(math.random(), math.random(10), math.random(50, 100))
